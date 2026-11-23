@@ -11,7 +11,7 @@ Decision Tree: compared against Logistic Regression during the trials
 Clustering: used to look for customer segments among Good RFM customers
 Feature engineering: TAG column built with a Dataiku formula
 
-4. Data Source
+4. Data Source:
 Excel file - Middlesex University
 
 5. Features / Highlights
