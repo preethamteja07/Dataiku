@@ -11,10 +11,10 @@ Decision Tree: compared against Logistic Regression during the trials
 Clustering: used to look for customer segments among Good RFM customers
 Feature engineering: TAG column built with a Dataiku formula
 
-5. Data Source
+4. Data Source
 Excel file - Middlesex University
 
-6. Features / Highlights
+5. Features / Highlights
 Data cleaning: filled empty Customer Bio values with "Nil" and empty RFM Score values with the previous row's value. Payback Status was changed from integer to text because it holds multiple categories.
 Feature engineering: created a TAG column that is TRUE if the customer bio contains Shopaholic, Geek or Fitness, otherwise FALSE.
 Train/test strategy: 80% of the data for training and 20% for testing.
