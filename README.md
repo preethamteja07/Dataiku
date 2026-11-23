@@ -1,10 +1,10 @@
-1. Project Title / Headline
+1. Project Title / Headline:
 Zing Customer Payback Prediction: End-to-End Machine Learning Workflow in Dataiku
 
-2. Short Description / Purpose
+2. Short Description / Purpose:
 This project was built for Payback prediction. It uses Dataiku to predict customer payback status for Zing, a gaming company, and to find out whether distinct customer groups exist among customers with a Good RFM score. The work covers cleaning the customer data, engineering a new TAG feature from customer bios, training and comparing models over two trials, and deploying a final Logistic Regression model. It ends with a clustering attempt on high-value customers, and the screenshots in this folder document each stage of the flow.
 
-3. Tech Stack
+3. Tech Stack:
 Dataiku DSS: data preparation recipes, visual flow, split recipe, AutoML training, model deployment and scoring
 Logistic Regression: final deployed model
 Decision Tree: compared against Logistic Regression during the trials
